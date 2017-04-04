@@ -1,5 +1,5 @@
 {
-   "scope": "text.edge",
+   "scope": "source.edge",
    "completions":
    [
       { "trigger": "inc\tlude", "contents": "@include('${1:partials.${2:partial}}')" },
